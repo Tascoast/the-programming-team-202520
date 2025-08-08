@@ -2,7 +2,7 @@ Holmesglen Programming Team 2025 Semester 2
 
 -- Title -- 
 
-Revision notes for Michael's personalised fork of the Programming Team member profile pages (*.thml)
+Revision notes for Michael's personalised fork of the Programming Team member profile pages (*.html)
 
 -- Publication Date --
 
