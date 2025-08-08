@@ -6,4 +6,6 @@ Holmesglen Programming Team 2025 Semester 2
 
  Creation of fork on Team GitHub appears successful.
 
- This entry was edited directly in GitHub via FIrefox, and will be saved if write permission allow this.
+ This entry was edited directly via the Programming Team GitHub via FIrefox, and will be saved if write permission allow this.
+
+ Outcome: Editing repo files directly, rather than remotely, for simple tasks like brief revision notes, seems quite satisfactory
